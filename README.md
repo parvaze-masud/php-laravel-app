@@ -94,6 +94,14 @@ Now go to your app container and run
 
 You can now connect to the php container and run the migrations
 
+Finally application deployed.
+
+![image](https://github.com/parvaze-masud/php-laravel-app/assets/141165442/99dcdae1-a74f-4a49-a436-a1d837d49ca7)
+
+![image](https://github.com/parvaze-masud/php-laravel-app/assets/141165442/5c62f630-8172-4546-bf5a-7488b54c7190)
+
+
+
 
 
 
