@@ -1,9 +1,11 @@
 # Dockerize PHP Laravel, MySQL Application
 
 We will need 3 different services for this setup
+
 1. Nginx Server
 2. PHP Server
-3.MySQL Server
+3. MySQL Server
+
 # Directory Structure
 The application folder will contain all the files related to Laravel, basically the Laravel application. For this tutorial, I have just created a forum application but you can just replace it with your application code. The Nginx and PHP folders will contain the configurations related to Nginx and PHP.
 
