@@ -1,5 +1,7 @@
 FROM php:7.4-fpm
 
+MAINTAINER Parvaze <parvaze.mdmasud@gmail.com>
+
 # Install system dependencies
 RUN apt-get update && apt-get install -y \
     git \
